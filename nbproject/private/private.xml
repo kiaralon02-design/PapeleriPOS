@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/kiara/OneDrive/Documents/NetBeansProjects/papeleriaPOS/src/modelo/Producto.java</file>
+            <file>file:/C:/Users/kiara/OneDrive/Documents/NetBeansProjects/papeleriaPOS/src/modelo/ProductoUnidad.java</file>
+            <file>file:/C:/Users/kiara/OneDrive/Documents/NetBeansProjects/papeleriaPOS/src/modelo/ProductoPeso.java</file>
+            <file>file:/C:/Users/kiara/OneDrive/Documents/NetBeansProjects/papeleriaPOS/src/modelo/Cliente.java</file>
+            <file>file:/C:/Users/kiara/OneDrive/Documents/NetBeansProjects/papeleriaPOS/src/modelo/ItemVenta.java</file>
+            <file>file:/C:/Users/kiara/OneDrive/Documents/NetBeansProjects/papeleriaPOS/src/modelo/MetodoPago.java</file>
+            <file>file:/C:/Users/kiara/OneDrive/Documents/NetBeansProjects/papeleriaPOS/src/modelo/PagoEfectivo.java</file>
+            <file>file:/C:/Users/kiara/OneDrive/Documents/NetBeansProjects/papeleriaPOS/src/modelo/PagoTarjeta.java</file>
+            <file>file:/C:/Users/kiara/OneDrive/Documents/NetBeansProjects/papeleriaPOS/src/modelo/Venta.java</file>
+            <file>file:/C:/Users/kiara/OneDrive/Documents/NetBeansProjects/papeleriaPOS/src/logica/Catalogo.java</file>
+            <file>file:/C:/Users/kiara/OneDrive/Documents/NetBeansProjects/papeleriaPOS/src/logica/GestorVentas.java</file>
+            <file>file:/C:/Users/kiara/OneDrive/Documents/NetBeansProjects/papeleriaPOS/src/logica/Comprobante.java</file>
+            <file>file:/C:/Users/kiara/OneDrive/Documents/NetBeansProjects/papeleriaPOS/src/ejecucion/PapeleriaPOS.java</file>
+        </group>
+    </open-files>
+</project-private>
